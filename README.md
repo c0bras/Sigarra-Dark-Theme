@@ -9,6 +9,8 @@ Feel free to contribute to it!
 
 If you found a bug, please report it back to me.
 
+![alt text](https://github.com/c0bras/Sigarra-Dark-Theme/blob/master/preview.png)
+
 ## Changelog:
 
 20.02.2017: v1.3.1 (better contrast on cookie alert)
