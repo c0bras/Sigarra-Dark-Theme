@@ -1,0 +1,56 @@
+  div#rodape {background-color:black !important;}
+  div#caixa-atalhos-conteudo {background-color:#222222 !important;}
+  div#caixa-atalhos-cabecalho {background-color:#1B1B1B !important;}
+  div#menu-navegacao-conteudo {background-color:#222222 !important;}
+  div#involucro {background-color:#222222 !important;}
+  div#conteudo {background-color:#1B1B1B !important;}
+  h3, h4, body {color: white !important;}
+  div#menu-navegacao-conteudo ul li a:link, div#menu-navegacao-conteudo ul li a:visited {color: white !important;}
+  div.caixa-opcoes-cabecalho {background-color: #1B1B1B !important;}
+  div.caixa-opcoes-conteudo {background-color: #222222 !important;}
+  div.caixa-opcoes-conteudo a:link, div.caixa-opcoes-conteudo a:visited {color: white !important;}
+  div#barralocalizacao {background-color:black !important;}
+  div#caixa-validacao-conteudo {background-color:#222222 !important;}
+  div.conteudoinner body,a:link , a:visited {color: #CC381A !important;}
+  div#caixa-validacao-cabecalho, div#caixa-campus-cabecalho {background-color: black !important;}
+  h1, h2 {color: #CC381A !important;}
+  div#caixa-validacao-conteudo {border: 0px solid #ebebeb !important;}
+  div#caixa-campus-conteudo {border: 1px solid #000;background-color: #222222 !important;}
+  div.portlet-noticias-cabecalho {background-color: #1B1B1B !important;}
+  div.portlet-noticias-conteudo {background-color: #2B2B2B !important;}
+  body {opacity: 1;transition: 1s opacity !important;}
+  body.fade-out {opacity: 0;transition: none !important;}
+  html {background-color: black !important;}
+  div#conteudo {border-bottom: 1px solid #8C2D19;border-left: 1px solid #8C2D19;border-right:1px solid #8C2D19 !important;}
+  div#menu-navegacao-conteudo ul li {border-bottom: 1px solid #8C2D19 !important;}
+  div.caixa-opcoes-conteudo ul{border-bottom: 1px solid #8C2D19 !important;}
+  div#barralocalizacao {background-color: black !important;}
+  div#caixa-atalhos-conteudo a:link, div#caixa-atalhos-conteudo a:visited {color: white !important;}
+  div.estudante-lista-curso-activo {background-color: #242424 !important;}
+  div.estudante-detalhe-cabecalho {background-color: #242424 !important;}
+  li.estudantes-curso-opcao {background-color: #242424 !important;}
+  button, input, optgroup, select, textarea {color: black !important;}
+  th {color: white;background-color:#2A2A2A !important;}
+  tr.i, td.i {background-color:#B7B6B6 !important;}
+  tr.p, td.p {background-color:#9F9B9B !important;}
+  tr.i td.nao-aprovado {background-color:#FFAC52 !important;}
+  tr.p td.nao-aprovado {background-color:#FD8B11 !important;}
+  tr.vazio, td.vazio {background-color:#242424 !important;}
+  td.totais, tr.totais {background-color:#969393 !important;}
+  tr.i-fazer, td.i-fazer {background-color:#969393 !important;}
+  tr.p-fazer, td.p-fazer {background-color:#969393 !important;}
+  tr.i-neutro, td.i-neutro {background-color:#969393 !important;}
+  tr.p-neutro, td.p-neutro {background-color:#969393 !important;}
+  td.t {background-color:#969393 !important;}
+  td.l {background-color:#4C4C4C !important;}
+  td.n {background-color:#4C4C4C !important;}
+  tr.d, td.d {background-color:#4C4C4C !important;}
+  div.informacao-pessoal-apresentacao {background-color:#242424 !important;}
+  tr.k, td.k {background-color:#242424 !important;}
+  .yui-skin-sam .yui-navset .yui-content {background-color:#222222 !important;}
+  div.caixa-informativa {background-color:#222222 !important;}
+  div.portlet-legenda-conteudo {background-color:#242424;border:0px solid #EBEBEB !important;}
+  div.portlet-legenda-cabecalho {background-color:#1B1B1B;border:1px solid #8C2D19 !important;}
+  div#conteudo-extra {background-color:#1B1B1B;border-left:1px solid #8C2D19 !important;}
+  a.autenticacao-nome:link, a.autenticacao-nome:visited, span.autenticacao-nome {color:#fff !important;}
+  #cookie-bar a {color:#fff !important;}
