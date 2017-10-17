@@ -13,6 +13,9 @@ If you found a bug, please report it back to me.
 
 ## Changelog:
 
+17.10.2017: v1.4 (optimized)
+- Seriously optimized the extension
+
 20.02.2017: v1.3.1 (better contrast on cookie alert)
 - Fixed wrong color contrast, in Sigarra's cookie alert on the top
 
